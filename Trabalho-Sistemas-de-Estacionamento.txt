@@ -31,3 +31,20 @@ Easy Park:
 - Aplicativo simples
 - Facil controle sobre os preços 
 - Cadastro de avarias para evitar que o cliente use destes para aplicar golpes
+
+GABARITO:
+- Controle de preço
+- Abertura e fechamento de cancela por comando do sistema
+- Cadastro de promoções
+- Relatorios de pagamentos
+- Informações em tempo real
+- Controle de rotativos
+- Relatorios analitcos
+- Saida controlada por codigo de barras
+- Backup automatico de dados
+- Verificação de vagas via app
+- Envio de recibos por email
+- Registro das placas por camera
+- Emissão de vouchers de desconto
+- Acesso remoto ao sistema
+- Controlde de pagamento por multiplos meios (PIX, Credito, Debito etc...)
