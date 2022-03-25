@@ -1,3 +1,8 @@
+Lista de requisitos - Sistema de gestão de estacionamento
+Trabalho de pesquisa de referencias 
+Data: 25/03/2022
+Sala: 2SIF
+
 Nepos:
 - Alta performance no manipulamento de informações
 - Gerenciamento financeiro e operacional das áreas do estacionamento
