@@ -1,0 +1,28 @@
+Nepos:
+- Alta performance no manipulamento de informações
+- Gerenciamento financeiro e operacional das áreas do estacionamento
+- Interface customizavel
+- Rotinas de teste
+
+ABCPark:
+- Praticidade
+- Controle de horistas
+- Flexibilidade nos valores permitindo condições de convenio e descontos
+- Forte permissionamento para a segurança do projeto
+- Uso de códigos de barra nos cupons
+- Disponibilidade de suporte técnico
+
+Parkeer:
+- Baixo custo
+- Tarifas inteligentes
+- Planos mensais
+- Parceirias com convenios
+- Acompanhamento de caixa
+- Criação de vouchers
+- Proteção anti-fraude
+
+Easy Park:
+- Sistema online
+- Aplicativo simples
+- Facil controle sobre os preços 
+- Cadastro de avarias para evitar que o cliente use destes para aplicar golpes
